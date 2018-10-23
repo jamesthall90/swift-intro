@@ -2,7 +2,7 @@
 var myString = "Hello, playground"
 
 // Should print "Swift knows that str is a String"
-print("Swift knows that str is a \(type(of: myString))")
+print("Swift knows that myString is a \(type(of: myString))")
 
 // If necessary, type can be specified
 var sum: Int?
